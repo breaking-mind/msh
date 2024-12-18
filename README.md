@@ -1,0 +1,2 @@
+# msh
+Mangá Scan Helper
